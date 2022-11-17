@@ -1,0 +1,121 @@
+.container-sensor {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0 100px;
+  width: 250px;
+  min-height: 60px;
+  background-color: #e6e6e6;
+  border-radius: 10px;
+  -webkit-box-shadow: 5px 5px 15px -9px #000000;
+  box-shadow: 5px 5px 15px -9px #000000;
+  height: 200px;
+  margin-left: 50px;
+}
+
+.container-sensor span {
+  color: #000;
+  font-family: "Aboreto";
+  font-weight: bold;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.imagem {
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+}
+
+.unity {
+  display: flex;
+  color: #000;
+  font-family: "Aboreto";
+  font-weight: bold;
+  height: 30px;
+  font-size: 25px;
+  width: 30px;
+  align-items: center;
+  justify-content: center;
+}
+
+.verde {
+  color: green;
+}
+
+.vermelho {
+  color: red;
+}
+
+.laranja {
+  color: orangered;
+}
+
+.textoColor {
+  font-family: "Aboreto";
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 15px;
+}
+
+.transparente {
+  background-color: #e6e6e6;
+  opacity: 0.4;
+}
+
+.preto {
+  background-color: #e6e6e6;
+}
+
+.Input {
+  height: 30px;
+  width: 100px;
+}
+
+.inputChange {
+  height: 30px;
+  width: 100px;
+}
+
+.flexrow {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.handleButton {
+  height: 20px;
+  width: 20px;
+  border: none;
+  margin-top: 2px;
+  background-color: #c2c2c2;
+  border-radius: 90px;
+}
+
+.spanButton {
+  font-size: 10px;
+}
+
+.porfora {
+  white-space: nowrap;
+}
+
+.sizeInput {
+  width: 80px;
+  margin: 0px 20px;
+}
+
+.exc-sensor {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  border-radius: 10px;
+  width: 120px;
+}
+
+.botao-sens {
+  border: none;
+  background-color: #e6e6e6;
+}
