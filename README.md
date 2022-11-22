@@ -1,4 +1,4 @@
-# Fugiro App
+# 📡 Fugiro App 📡
 
 Este projeto foi desenvolvido como projeto integrador na faculdade de ADS!
 
